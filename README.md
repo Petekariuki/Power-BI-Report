@@ -9,7 +9,7 @@
   - [Product Detail View](#product-detail-view)
   - [Customer Detail View](#customer-detail-view)
   - [Custom Additions](#custom-additions)
-- [Insights](#insights)
+
 
 ## Introduction
 
