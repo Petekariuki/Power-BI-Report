@@ -1,4 +1,6 @@
+# AdventureWorks Dashboard
 
+(gifs/AdventureWorksDemo.gif)
 
 ## Table of Contents
 
