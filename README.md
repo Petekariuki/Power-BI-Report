@@ -1,3 +1,7 @@
+# AdventureWorks Dashboard
+
+![Dashboard Gif](gifs/AdventureWorksDemo.gif)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
