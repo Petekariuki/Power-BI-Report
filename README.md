@@ -1,6 +1,4 @@
-# AdventureWorks Dashboard
 
-AdventureWorksDemo.gif
 
 ## Table of Contents
 
