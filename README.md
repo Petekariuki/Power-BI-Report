@@ -1,6 +1,6 @@
 # AdventureWorks Dashboard
 
-![Dashboard Gif](gifs/AdventureWorksDemo.gif)
+AdventureWorksDemo.gif
 
 ## Table of Contents
 
